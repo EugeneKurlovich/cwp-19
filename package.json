@@ -1,0 +1,9 @@
+{
+    "name": "cwp-13",
+    "author": "Eugene",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "joi": "^13.0.2"
+    }
+}
